@@ -8,7 +8,7 @@
 	 xmlns:media="http://search.yahoo.com/mrss/" >
 
 <channel>
-	<title>USA &#8211; Insurance</title>
+	<title>USA &#8211; Cafegist</title>
 	<atom:link href="https://insurance-jobs.cafegist.com.ng/usa/feed/" rel="self" type="application/rss+xml" />
 	<link>https://insurance-jobs.cafegist.com.ng</link>
 	<description></description>
@@ -18,7 +18,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.5.3</generator>
+	<generator>https://wordpress.org/?v=6.5.4</generator>
 	<item>
 		<title>EB3 Visa for Skilled Workers in the USA: Eligibility Criteria, Costs, and Benefits</title>
 		<link>https://insurance-jobs.cafegist.com.ng/eb3-visa-for-skilled-workers-in-the-usa-eligibility-criteria-costs-and-benefits/</link>

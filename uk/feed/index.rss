@@ -8,7 +8,7 @@
 	 xmlns:media="http://search.yahoo.com/mrss/" >
 
 <channel>
-	<title>UK &#8211; Insurance</title>
+	<title>UK &#8211; Cafegist</title>
 	<atom:link href="https://insurance-jobs.cafegist.com.ng/uk/feed/" rel="self" type="application/rss+xml" />
 	<link>https://insurance-jobs.cafegist.com.ng</link>
 	<description></description>
@@ -18,7 +18,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.5.3</generator>
+	<generator>https://wordpress.org/?v=6.5.4</generator>
 	<item>
 		<title>How to Land a Marketing Internship in Australia?</title>
 		<link>https://insurance-jobs.cafegist.com.ng/how-to-land-a-marketing-internship-in-australia/</link>
